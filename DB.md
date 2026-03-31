@@ -23,15 +23,13 @@ SQL은 데이터 베이스에 저장된 데이터를 정의,제거,조작하기 
 
 관계형 데이터베이스 관리 시스템(RDBMS)에서 데이터를 정의, 조작, 제어하기 위해 사용하는 표준 프로그래밍 언어
 
-- DDL  데이터 정의어
-<BR>
-CREATE 만들기,ALTER 고치기,DROP 없애기,TRUNCATE 비우
+- DDL  데이터 정의어<BR>
+CREATE 만들기,ALTER 고치기,DROP 없애기,TRUNCATE 비우기
 
-- DCL 데이터 조작어
-<BR>
+- DCL 데이터 조작어<BR>
 INSERT 넣기,DELETE 빼기,SELECT 보기,UPDATE 바꾸기
-- DML 데이터 제어어
-<BR>
+
+- DML 데이터 제어어<BR>
 GRANT 허락하기,REVOKE 뺏기
 
 
